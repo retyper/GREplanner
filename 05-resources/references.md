@@ -46,3 +46,5 @@
 ## 세션 중 추가된 자료
 
 (여기에 계속 추가)
+
+- [AnkiWeb 공유 덱 검색](https://ankiweb.net/shared/decks) — GregMat/GRE 어휘 공유덱 다운로드 (2026-08-21) #어휘
