@@ -34,12 +34,21 @@
 | 08-21 | Q | 나머지 QC | Claude QC세트#2 Q1 | 개념 | D 과잉적용. n은 여러 값이어도 "2n을 7로 나눈 나머지"는 항상 6으로 고정 → C. **묻는 값이 변하는지**로 판단할 것 |  |
 | 08-21 | Q | 비율 QC (2분 초과 ★) | Claude QC세트#2 Q4 | 시간 | 비율은 3k, 5k로 놓고 방정식 한 줄. 7(3k)=3(5k+12) → k=6 |  |
 | 08-21 | Q | 수학 영어 | Claude QC세트#2 Q3 | 개념 | `coordinate`(좌표)를 몰라 문제 자체를 못 읽음 → Quant 영어 용어 별도 수집 시작 |  |
+| 08-22 | V | SE | Claude SE#1 Q4,Q5 | 개념 | **짝이 성립 안 하는 조합을 골랐다** (conclusive+surprising / unsophisticated+imitative). 두 단어를 각각 넣은 문장이 같은 뜻이 아니면 지시문 위반 — 어휘 없이도 걸러진다. 이 2개만 잡았으면 6/10 |  |
+| 08-22 | V | SE | Claude SE#1 Q1 | 함정 | "few readers made it past the opening chapter"의 재진술은 난해함. concise/succinct는 방향이 반대 |  |
+| 08-22 | V | SE | Claude SE#1 Q2 | 개념 | "shifting with each new poll"이 빈칸의 정의 → mutable/protean. opaque는 그럴듯할 뿐 재진술이 아님 (08-21 TC Q7과 동일 함정) |  |
+| 08-22 | V | SE | Claude SE#1 Q6 | 개념 | 콜론 뒤 3개 예시가 전부 근거. evenhanded는 **08-21에 이미 "뜻 불확실"로 기록된 단어** — Anki 카드가 안 돌고 있는지 확인 필요 |  |
+| 08-22 | V | SE | Claude SE#1 Q9 | 개념 | Though가 conception↔execution을 반대 극으로 묶는다 → 빈칸은 긍정. 전환어로 극 뒤집기가 아직 자동화 안 됨 (08-21 TC Q8,Q9 반복) |  |
+| 08-22 | V | SE | Claude SE#1 Q3 | 개념 | 찍어서 맞음 — truculent/belligerent 뜻 불확실 |  |
+| 08-22 | Q | QC 대수 | Claude QC세트#1 Q6 | 함정 | x²=16 → x=±4 (짝수 제곱은 값 2개), y³=64 → y=4 하나. **일반형: 짝수 제곱·절댓값이 보이면 음수 케이스 대입 필수.** 같은 구조의 기하 버전(08-21)은 오늘 맞혔으나 대수 버전은 놓침 = 규칙이 유형에 붙어 있고 일반화 안 됨 |  |
+| 08-22 | Q | QC 조합 | Claude QC세트#1 Q9 | 개념 | at least one = 전체 − 0명. C(7,3)−C(4,3)=35−4=31 → C. **08-21 순열 오답(여사건)과 동일 개념 — 이틀 연속.** 08-23 오전 확률·조합 최우선 항목 |  |
 
 ## 어휘 진도
 
 | 날짜 | 신규 그룹 | 복습 카드 | 메모 |
 |---|---|---|---|
 | 08-21 | Group 1 (40) | 0 | Anki 세팅일 |
+| 08-22 | GregMat 본덱 40 (08-21 이월분) | — | 시간 부족으로 오늘치 신규 40은 미실시. SE#1 오답 단어 12개(abstruse, impenetrable, mutable, protean, evenhanded, impartiality, laudable, temerity, nebulous, inchoate, truculent, belligerent) 미투입 → 08-23 |
 
 ## 일일 완료 체크
 
@@ -48,6 +57,7 @@
 | 날짜 | 완료 | 미완 → 흡수 계획 |
 |---|---|---|
 | 08-21 | 진단 기록·AWA 채점(3.0)·스케줄 재조정 / Anki 세팅+동기화+오답단어 64장 / TC 10문항(4/10) / Quant 12문항(8/12) / QC 5문항(4/5) | GregMat 본덱 40장 미완 → 8/22 저녁에 80장(2일치) 소화 |
+| 08-22 | GregMat 40장(08-21 이월분) / SE 10문항 4-10 / QC 10문항 8-10 / 오답 전수 기록 | RC 지문 2개 → 08-23 오전 RC 블록에 흡수 / 오늘치 어휘 신규 40 + SE 오답단어 12 → 08-23 (본인 요청으로 어휘 강화일로 운영) |
 
 ## 주간 약점 분석
 
